@@ -18,5 +18,6 @@ public class q3 {
             printing("Adult");
         else
             printing("Senior");
+        input.close();
     }
 }

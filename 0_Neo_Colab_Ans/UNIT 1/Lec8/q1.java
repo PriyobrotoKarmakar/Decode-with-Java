@@ -19,5 +19,6 @@ public class q1 {
                 break;
 
         }
+        input.close();
     }
 }
