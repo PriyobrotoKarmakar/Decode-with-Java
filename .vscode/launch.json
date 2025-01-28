@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q8",
+            "request": "launch",
+            "mainClass": "CipherSchool.Q8",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "CipherSchool.Q7",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
             "name": "Q4",
             "request": "launch",
             "mainClass": "CipherSchool.Q4",
