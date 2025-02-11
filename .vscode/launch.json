@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DefaultConstructor",
+            "request": "launch",
+            "mainClass": "DAY4.DefaultConstructor",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
+            "name": "constructure",
+            "request": "launch",
+            "mainClass": "DAY4.constructure",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
+            "name": "StudentClass",
+            "request": "launch",
+            "mainClass": "DAY4.StudentClass",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
+            "name": "evenNumber",
+            "request": "launch",
+            "mainClass": "OnlineClassNotes.Loop.evenNumber",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "Decode With Java_3b63e16a"
+        },
+        {
+            "type": "java",
             "name": "Q8",
             "request": "launch",
             "mainClass": "CipherSchool.Q8",

@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 
 /*Question - 02
 Write a Java program to demonstrate the use of primitive data types and type conversion. The program should:

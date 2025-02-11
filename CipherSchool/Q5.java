@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 
 /*You are managing a system that uses a 4-bit permission 
 scheme to represent the access rights of a user. Each bit 

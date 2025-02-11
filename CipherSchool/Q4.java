@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 
 /*Check Eligibility for Premium Membership
 

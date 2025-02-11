@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 
 /*Write a Java program to find the row with the maximum sum in a 2D array.
 
@@ -53,6 +53,6 @@ public class Q9 {
         }
         System.out.println("Row with the maximum sum: " + (maxSumInd + 1));
         System.out.println("Maximum sum: " + maxSum);
-
+        sc.close();
     }
 }

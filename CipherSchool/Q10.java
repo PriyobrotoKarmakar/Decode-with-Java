@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 /*Create a Student class with the following attributes:
 name (String)
 rollNumber (int)
@@ -32,7 +32,7 @@ Update marks by percentage increase:
 Percentage: 10
 Updated Details: Name: John, Roll Number: 101, Marks: 99.55 */
 import java.util.Scanner;
-public class Student{
+public Student{
     
 }
 public class Q10 {

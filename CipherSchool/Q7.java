@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 
 /* 
 Write a program to check if one string is a rotation of another string. 

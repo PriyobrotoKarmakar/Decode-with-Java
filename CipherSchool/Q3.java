@@ -1,4 +1,4 @@
-package CipherSchool;
+// package CipherSchool;
 
 /*Question - 03
 A retail store offers discounts on the total amount 
