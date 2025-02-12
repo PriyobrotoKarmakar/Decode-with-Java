@@ -8,6 +8,7 @@ class NumberClassifier {
         n = arr.length;
     }
     
+    
     public static void printEvenNumbers(int Arr[]){
         System.out.print("Even numbers: ");
         for(int i= 0;i<n;i++){
