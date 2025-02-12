@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main {
+class Main {
     // You are using Java
     public static void main(String[] args) {
         // type your code here
