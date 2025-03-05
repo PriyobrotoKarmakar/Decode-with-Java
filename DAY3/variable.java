@@ -1,4 +1,3 @@
-package DAY3;
 
 public class variable {
     public static void main(String[] args) {

@@ -32,9 +32,7 @@ Update marks by percentage increase:
 Percentage: 10
 Updated Details: Name: John, Roll Number: 101, Marks: 99.55 */
 import java.util.Scanner;
-public Student{
-    
-}
+
 public class Q10 {
 
     public static void main(String[] args) {

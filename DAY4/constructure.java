@@ -1,5 +1,3 @@
-package DAY4;
-
 public class constructure {
     public static class Student{
         String name;
@@ -17,7 +15,7 @@ public class constructure {
         }
     }
     public static void main(String[] args) {
-        Student s1 = new Student("priyo",1,9.03);
-        s1.printing();
+        // Student s1 = new Student("priyo",1,9.03);
+        // s1.printing();
     }
 }
