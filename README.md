@@ -37,7 +37,7 @@ Navigate to any module to explore source code, notes, and exercises:
 2. [02-control-flow-and-methods](./02-control-flow-and-methods/README.md) - Loops, Switch, Methods, Stack/Heap *(Includes [🔥 SWE 4 Control Flow & Memory Deep Dive](./02-control-flow-and-methods/CONTROL-FLOW-AND-STACK-HEAP-DEEP-DIVE.md))*
 3. [03-arrays-and-strings](./03-arrays-and-strings/README.md) - Arrays (1D, 2D, Jagged), Strings, StringBuilder *(Includes [🔥 SWE 4 Arrays & Strings Memory Deep Dive](./03-arrays-and-strings/ARRAYS-AND-STRINGS-DEEP-DIVE.md))*
 4. [04-oop-fundamentals](./04-oop-fundamentals/README.md) - Classes, Objects, Static, Encapsulation, Constructors *(Includes [🔥 SWE 4 OOP & Object Memory Deep Dive](./04-oop-fundamentals/OOP-FUNDAMENTALS-AND-OBJECT-LIFECYCLE-DEEP-DIVE.md))*
-5. [05-inheritance-and-polymorphism](./05-inheritance-and-polymorphism/README.md) - Inheritance, Overriding, Packages, Polymorphism
+5. [05-inheritance-and-polymorphism](./05-inheritance-and-polymorphism/README.md) - Inheritance, Overriding, Packages, Polymorphism *(Includes [🔥 SWE 4 Inheritance & vtable Deep Dive](./05-inheritance-and-polymorphism/INHERITANCE-POLYMORPHISM-AND-VTABLE-DEEP-DIVE.md))*
 6. [06-interfaces-enums-exceptions](./06-interfaces-enums-exceptions/README.md) - Interfaces, Enums, Lambda Expressions, Exception Handling
 7. [07-multithreading-and-collections](./07-multithreading-and-collections/README.md) - Threads, Synchronization, Collections Framework
 8. [08-stream-api-and-optional](./08-stream-api-and-optional/README.md) - Stream API (map, filter, reduce), Optional
